@@ -526,6 +526,10 @@ form img{
 .garancia h3 {
     width: 100%;
     font-size: 32px;
+	text-align: center;
+}
+.garancia h3::after {
+	top: 0;
 }
 .garancia > div div {
     width: 100%;
